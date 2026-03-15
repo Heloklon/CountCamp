@@ -1,3 +1,3 @@
 function hello(){
-    alert("JavaScript is working!");
+    alert("Events page coming soon!");
 }
